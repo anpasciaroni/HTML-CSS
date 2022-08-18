@@ -1,0 +1,47 @@
+body {
+    background-image: url("../img/fondo4.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+span {
+    font-weight: bold;
+    font-style: italic;
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+}
+
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+    color: black;
+    background-color: rgb(182, 212, 222);
+}
+
+ul {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.IngresoCV {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    color: black;
+    text-align: center;
+}
+
+footer {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    color:white;
+    text-align:center;
+    background-color: rgb(50, 137, 168);
+    background-size: 30px;
+}
